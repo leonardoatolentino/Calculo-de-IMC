@@ -1,1 +1,1 @@
-# Calculo-de-IMC
+Simples calculo de IMC feito em reactjs.
